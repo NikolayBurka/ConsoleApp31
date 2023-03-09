@@ -32,7 +32,8 @@ namespace ConsoleApp31
                 Console.WriteLine($"array[{i}]={i}");
             }
             Console.WriteLine();
-            Console.WriteLine($"array[0] ={array[0]}\narray[{n-1}] ={array[n-1]}");
+            Console.WriteLine($"array[0] ={array[0]}\narray[n-1}] ={array[n-1]}");
+            1
         }
     }
 }
